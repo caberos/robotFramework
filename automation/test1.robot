@@ -17,6 +17,3 @@ Google
 
 *** Keywords ***
 
-
-
-docentes deben subir las notas de estudiantes
